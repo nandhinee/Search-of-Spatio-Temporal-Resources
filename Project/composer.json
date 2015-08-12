@@ -1,0 +1,5 @@
+{
+    "require": {
+        "widop/http-adapter": "*"
+    }
+}
